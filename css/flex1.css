@@ -1,0 +1,42 @@
+body{
+  background: #efefef;
+}
+
+
+.parent{
+  border: 1px solid #000;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.blue{
+  border: 1px solid #000;
+  width: 100px;
+  height: 50px;
+  background: blue;
+}
+
+.red{
+  border: 1px solid #000;
+  width: 100px;
+  height: 50px;
+  background: red;
+}
+
+.yellow{
+  border: 1px solid #000;
+  width: 100px;
+  height: 50px;
+  background: yellow;
+}
+
+.green{
+  border: 1px solid #000;
+  width: 100px;
+  height: 50px;
+  background: green;
+}
